@@ -15,7 +15,7 @@ public interface FacebookService {
 
 	public String getUserData();
 
-    public PagedList<Post> getUserFeed();
+    public PagedList<Post> getUserFeed(); 
 
 
 }
